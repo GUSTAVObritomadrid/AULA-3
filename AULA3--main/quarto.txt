@@ -1,0 +1,14 @@
+4)void main() {
+
+
+   var ladoA = 16;
+     var ladoB = 16;
+  
+  
+  print(ladoA * ladoB);
+      
+  
+  
+  
+  
+}

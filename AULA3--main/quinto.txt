@@ -1,0 +1,13 @@
+5)void main() {
+  List nomes = ["Monica", "Chico", "Cebolinha"];
+  
+  print(nomes);
+  var outroNome = "Chico";
+  
+ if(nomes.contains(outroNome)) {
+   print("É a mesma pessoa");
+ } else {
+    print("Os nomes não conferem");
+ }
+  
+}

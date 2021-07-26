@@ -1,0 +1,13 @@
+3)
+void main() {
+  int altura = 2;
+  int base_menor = 4;
+  int base_maior = 7;
+ 
+  
+  
+  double area = ((base_maior + base_menor) * altura) / 2;
+  
+  print("Àrea do trapézio: $area");
+ 
+}

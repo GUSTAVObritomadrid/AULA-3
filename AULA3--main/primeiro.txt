@@ -1,0 +1,15 @@
+1)
+void main() {
+
+
+  var nome = 'SAMUEL';
+  var sobrenome = "SILVA";
+    var endereco="RUA BLA 909";
+  
+  print(nome);
+  print(sobrenome);
+  print(endereco);
+  
+  print('Nome:' +nome+ " " +sobrenome);
+
+}
